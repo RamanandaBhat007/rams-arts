@@ -1,3 +1,4 @@
 # rams-arts
-Again, creating landing pages. 
+
+Again, creating landing pages.
 Applying learnt knowledge, I would say.
